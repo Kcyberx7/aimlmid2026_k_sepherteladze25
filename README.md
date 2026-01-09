@@ -15,6 +15,6 @@ To test the application, the program was executed by providing the input file k_
 Resources:
 
 python modules: sys, re, pandas, numpy, matplotlib, pyplot.
-AI : chatgp
-cmd
+AI : chatgp.
+cmd.
 
