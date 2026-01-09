@@ -12,3 +12,9 @@ The developed Python application consists of several logical modules. The data l
 
 To test the application, the program was executed by providing the input file k_sepherteladze25_72634.csv as a command-line argument. The dataset was successfully processed, and the application generated two graphical visualizations. Afterward, the trained model was tested using two manually composed email texts: one legitimate email and one spam email. Both emails were correctly classified through the interactive console interface. Screenshots of the execution results and generated visualizations are provided as uploaded files
 
+Resources:
+
+python modules: sys, re, pandas, numpy, matplotlib, pyplot.
+AI : chatgp
+cmd
+
